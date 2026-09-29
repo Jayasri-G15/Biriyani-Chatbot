@@ -1,0 +1,19 @@
+# Node / Vite
+**/node_modules/
+**/dist/
+
+# Python / Virtual Environment
+**/.venv/
+**/__pycache__/
+*.pyc
+
+# Database & Environment secrets
+**/.env
+**/chat.db
+**/*.db
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
